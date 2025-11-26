@@ -1,0 +1,10 @@
+[INFO]: 26.11.2025, 19:06:27 - Logger initialized in both mode
+[SUCCESS]: 26.11.2025, 19:06:28 - Server running on http://localhost:3000
+[INFO]: 26.11.2025, 19:08:57 - Fetched all authors
+[INFO]: 26.11.2025, 19:13:53 - Logger initialized in both mode
+[SUCCESS]: 26.11.2025, 19:13:54 - Server running on http://localhost:3000
+[ERROR]: 26.11.2025, 19:14:01 - Post creation failed: missing fields
+[ERROR]: 26.11.2025, 19:14:45 - Author creation failed: missing fields
+[SUCCESS]: 26.11.2025, 19:14:56 - User logged in: admin
+[INFO]: 26.11.2025, 19:14:59 - Logger initialized in both mode
+[SUCCESS]: 26.11.2025, 19:15:00 - Server running on http://localhost:3000
